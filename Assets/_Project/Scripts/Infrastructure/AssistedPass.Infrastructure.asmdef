@@ -1,0 +1,19 @@
+{
+    "name": "AssistedPass.Infrastructure",
+    "rootNamespace": "AssistedPass.Infrastructure",
+    "references": [
+        "AssistedPass.Domain",
+        "AssistedPass.Application",
+        "AssistedPass.Presentation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

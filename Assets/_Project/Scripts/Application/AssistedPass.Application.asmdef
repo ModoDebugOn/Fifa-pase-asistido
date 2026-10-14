@@ -1,0 +1,16 @@
+{
+    "name": "AssistedPass.Application",
+    "rootNamespace": "AssistedPass.Application",
+    "references": [
+        "AssistedPass.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
