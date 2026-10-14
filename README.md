@@ -49,5 +49,8 @@ El código sigue una arquitectura por capas, cada una con su asmdef y dependenci
 - `Assets/_Project/ScriptableObjects` — perfiles de asistencia `Assist_High`, `Assist_Medium`, `Assist_Low` (manual).
 - `Docs` — imágenes y GIFs del README.
 
+## Créditos
+Proyecto de ModoDebugOn, desarrollado con la ayuda de [Claude](https://claude.com/claude-code) (Anthropic).
+
 ## Licencia
 MIT — consulta [LICENSE](LICENSE).
