@@ -17,8 +17,7 @@ No es el código de EA: es una recreación de la idea, con números propios.
 (1 = justo en la línea, 0 = en el borde del cono). Si dos empatan, gana el más cercano.
 
 ## Vídeo
-- Vídeo completo: [Por qué tus pases en FIFA llegan aunque apuntes mal](https://youtu.be/DX2zvSkoDxY)
-- Reels: _próximamente_
+[Por qué tus pases en FIFA llegan aunque apuntes mal](https://youtu.be/DX2zvSkoDxY)
 
 ## Cómo probarlo
 1. Clona el repositorio.
